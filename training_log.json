@@ -1,0 +1,74 @@
+[
+    {
+        "date": "2024-11-18 22:18:14",
+        "exercise": "\u0436\u0438\u043c \u0441\u0438\u0434\u044f",
+        "weight": "2.5",
+        "repetitions": "8"
+    },
+    {
+        "date": "2024-11-18 22:19:34",
+        "exercise": "\u0436\u0438\u043c \u043b\u0451\u0436\u0430",
+        "weight": "2.5",
+        "repetitions": "10"
+    },
+    {
+        "date": "2024-11-18 22:20:54",
+        "exercise": "\u043f\u043e\u0434\u044a\u0451\u043c \u0440\u0443\u043a",
+        "weight": "2.5",
+        "repetitions": "12"
+    },
+    {
+        "date": "2024-11-20 15:30:36",
+        "exercise": "\u0436\u0438\u043c \u0441\u0438\u0434\u044f",
+        "weight": "2.5",
+        "repetitions": "10"
+    },
+    {
+        "date": "2024-11-20 15:31:33",
+        "exercise": "\u0436\u0438\u043c \u043b\u0451\u0436\u0430",
+        "weight": "2.5",
+        "repetitions": "10"
+    },
+    {
+        "date": "2024-11-20 15:35:00",
+        "exercise": "\u043f\u043e\u0434\u044a\u0451\u043c \u0440\u0443\u043a",
+        "weight": "2.5",
+        "repetitions": "12"
+    },
+    {
+        "date": "2024-11-21 19:20:01",
+        "exercise": "\u0436\u0438\u043c \u0441\u0438\u0434\u044f",
+        "weight": "3",
+        "repetitions": "10"
+    },
+    {
+        "date": "2024-11-21 19:20:33",
+        "exercise": "\u0436\u0438\u043c \u043b\u0451\u0436\u0430",
+        "weight": "3",
+        "repetitions": "10"
+    },
+    {
+        "date": "2024-11-21 19:54:50",
+        "exercise": "\u043f\u043e\u0434\u044a\u0451\u043c \u0440\u0443\u043a",
+        "weight": "3",
+        "repetitions": "12"
+    },
+    {
+        "date": "2024-11-23 19:25:07",
+        "exercise": "\u0436\u0438\u043c \u0441\u0438\u0434\u044f",
+        "weight": "3",
+        "repetitions": "12"
+    },
+    {
+        "date": "2024-11-23 19:25:43",
+        "exercise": "\u0436\u0438\u043c \u043b\u0451\u0436\u0430",
+        "weight": "3",
+        "repetitions": "12"
+    },
+    {
+        "date": "2024-11-23 19:26:43",
+        "exercise": "\u043f\u043e\u0434\u044a\u0451\u043c \u0440\u0443\u043a",
+        "weight": "3",
+        "repetitions": "12"
+    }
+]
