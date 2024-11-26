@@ -59,4 +59,4 @@
 
   Пример работы програмы:
 
-  ![Image alt]()
+  ![Image alt](https://github.com/AlekseevAlek/Training-journal/blob/master/статистика.png)
